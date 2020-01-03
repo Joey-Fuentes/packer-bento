@@ -252,6 +252,7 @@
         "{{template_dir}}/../_common/sshd.sh",
         "{{template_dir}}/scripts/networking.sh",
         "{{template_dir}}/scripts/sudoers.sh",
+        "{{template_dir}}/scripts/post-update-installs.sh",
         "{{template_dir}}/scripts/vagrant.sh",
         "{{template_dir}}/../_common/virtualbox.sh",
         "{{template_dir}}/scripts/vmware.sh",
